@@ -1,4 +1,4 @@
-module github.com/glassechidna/resharper-action
+module github.com/sureflapltd/resharper-action
 
 go 1.14
 
